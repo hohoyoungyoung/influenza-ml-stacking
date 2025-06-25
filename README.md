@@ -44,7 +44,7 @@
 | `influenza_ml_stacking.ipynb` | 머신러닝 및 스태킹 기반 예측 모델 전체 구현 |
 | `images/`                     | 모델별 예측 시각화 이미지 폴더              |
 | `README.md`                   | 본 문서                                      |
-
+| `docs/`                       | 캡스톤 발표 포스터                                      |
 ---
 
 ## 📈 주요 결과 요약
